@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer with a background in linguistics and social studies
+Full Stack Web Developer with a background in Linguistics, Project Management and Social Studies
 
 
 ## 🌐 Socials:
